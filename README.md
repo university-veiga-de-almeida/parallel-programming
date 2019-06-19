@@ -1,10 +1,7 @@
 # Parallel Programming
 Repository of codes of the matter, where the codes were developed by myself.
 
- # TANK-WATER
-**Tank Water** is a scholarly work with punctuation.
-
-**Prerequisites**
+# Prerequisites
 - [JAVA-JDK](https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html)
 - [ECLIPSE](https://www.eclipse.org/downloads/)
 
