@@ -1,5 +1,5 @@
 # Parallel Programming
-Repository of codes of the matter, where the codes were developed by myself.
+Repository of codes of the matter, where the codes were developed by myself with JAVA language.
 
 # Prerequisites
 - [JAVA-JDK](https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html)
