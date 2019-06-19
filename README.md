@@ -30,10 +30,6 @@ another to represent the tank and the third to represent the tank controller. fi
 **c)** The Console class is being sent with this document. This class was
 implemented the clearScreen () method, which clears the console screen. Important: This Console version has been tested only on Windows and will probably not work. on Linux.
 
-# Starting
-Before cloning the project, make sure you have all the tried and tested technologies below.
-
-
 # Authors
 [THIAGO DE BONIS C. SAAD SAUD](https://www.linkedin.com/in/thiagodebonisoficial/) - **DEVELOPER**
 
